@@ -21,4 +21,4 @@ int b=7;
 a=a^b;
 b=a^b;
 a=a^b;
-System.Console.Writeline($"a={a} b={b}");
+System.Console.WriteLine($"a={a} b={b}");
